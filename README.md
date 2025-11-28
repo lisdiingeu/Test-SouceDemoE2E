@@ -1,4 +1,4 @@
-# FakeStoreAPI — k6 Automation Tests 🔹
+# SouceDemoE2E — Cypress E2E Tests 🔹
 
 Repo ini berisi skrip end-to-end (E2E) menggunakan Cypress.  
 
